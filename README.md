@@ -24,9 +24,9 @@ This is a car seller application. you can by your car here
 
 `Live side link` [https://car-seller-app.web.app/](https://car-seller-app.web.app/).
 
-`Server side code link` [https://github.com/programming-hero-web-course-4/niche-website-server-side-codergalib20](https://github.com/programming-hero-web-course-4/niche-website-server-side-codergalib20).
+`Server side code link` [https://github.com/codergalib20/car-seller-full-application](https://github.com/codergalib20/car-seller-full-application).
 
-`Client side code link` [https://github.com/programming-hero-web-course-4/niche-website-client-side-codergalib20](https://github.com/programming-hero-web-course-4/niche-website-client-side-codergalib20).
+`Client side code link` [https://github.com/codergalib20/car-seller-application-client-side](https://github.com/codergalib20/car-seller-application-client-side).
 
 ## `Demo images `
 
